@@ -1,0 +1,39 @@
+{
+  "feature_names": [
+    "Area",
+    "Perimeter",
+    "MajorAxisLength",
+    "MinorAxisLength",
+    "AspectRatio",
+    "Eccentricity",
+    "ConvexArea",
+    "EquivDiameter",
+    "Extent",
+    "Solidity",
+    "Roundness",
+    "Compactness",
+    "ShapeFactor1",
+    "ShapeFactor2",
+    "ShapeFactor3",
+    "ShapeFactor4"
+  ],
+  "target_column": "Class",
+  "class_names": [
+    "BARBUNYA",
+    "BOMBAY",
+    "CALI",
+    "DERMASON",
+    "HOROZ",
+    "SEKER",
+    "SIRA"
+  ],
+  "model_names": [
+    "Logistic Regression",
+    "Decision Tree",
+    "KNN",
+    "Gaussian Naive Bayes",
+    "SVM"
+  ],
+  "best_model_name_by_weighted_f1": "SVM",
+  "random_state": 42
+}
