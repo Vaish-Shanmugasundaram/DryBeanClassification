@@ -48,7 +48,7 @@ Decision Tree (F1: 0.8913 | Accuracy: 0.8917 | AUC: 0.9330)
 2. Start the app: `streamlit run app.py`
 
 ## GitHub Repository
-Replace this line with your GitHub repository URL.
+(https://github.com/Vaish-Shanmugasundaram/DryBeanClassification-ML)
 
 ## Live Streamlit Application
 Replace this line with your Streamlit Community Cloud URL.
